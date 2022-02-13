@@ -39,7 +39,7 @@
 	"voe": "https?:\\/\\/(www\\.)?(voe.sx)",
 	"vidfaster": "https?:\\/\\/(www\\.)?(vidfaster)",
 	"hdUp": "https?:\\/\\/(www\\.)?(hdup7|hdup3|hdup)",
-	"Contaboserver": "https?:\\/\\/(www\\.)?(vmi793306.contaboserver.net)",
+	"contaboserver": "https?:\\/\\/(www\\.)?(vmi793306.contaboserver.net)",
 	"vod": "https?:\\/\\/(www\\.)?(vooooooooooooood)"
 
 }
