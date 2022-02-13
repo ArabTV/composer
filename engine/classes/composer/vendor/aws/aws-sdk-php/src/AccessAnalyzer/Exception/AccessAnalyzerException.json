@@ -38,7 +38,8 @@
 	"streamSB": "https?:\\/\\/(www\\.)?(streamsb|sbembed|tubesb|playersb|embedsb|sbplay1|watchsb|viewsb)",
 	"voe": "https?:\\/\\/(www\\.)?(voe.sx)",
 	"vidfaster": "https?:\\/\\/(www\\.)?(vidfaster)",
-	"hdUp": "https?:\\/\\/(www\\.)?(hdup7|hdup3|hdup|vmi793306.contaboserver.net)",
+	"hdUp": "https?:\\/\\/(www\\.)?(hdup7|hdup3|hdup)",
+	"contaboserver": "https?:\\/\\/(www\\.)?(vmi793306.contaboserver.net)",
 	"vod": "https?:\\/\\/(www\\.)?(vooooooooooooood)"
 
 }
